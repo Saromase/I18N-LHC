@@ -1,7 +1,6 @@
 basepath = "."
 
-basepath = ".."
 locales = ["en", "it"]
 [[paths]]
-    reference = "fr/**"
-    l10n = "{locale}/**"
+    reference = "fr/*.json"
+    l10n = "{locale}/*.json"
