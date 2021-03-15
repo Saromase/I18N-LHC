@@ -49,7 +49,7 @@
             "title" : "Augmenter votre personnage",
             "description" : "Pour finaliser votre initiation, augmenter vos caractéristiques. Elle se trouve dans l'onglet personnage.",
             "objective"   : "Avoir utilisé toute vos points d'amélioration."
-        },
+        }
     },
     "search" : {
         "honey" : {
@@ -66,7 +66,7 @@
             "title"       : "Un match de détente",
             "description" : "Aujourd'hui c'est jour de match, mais bizarrement entre chaque match, elles disparaissent. J'en ai besoin rapidement !",
             "objective"   : "Avoir l'objet \"Batte\" et le donner au chef."
-        },
+        }
     },
     "view" : {
         "claim" : "{0}Le contrat ne peut être valider pour le moment.|{1}Le contrat peut être valider, allez voir le sous mercenaire.",
