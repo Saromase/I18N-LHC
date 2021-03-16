@@ -1,93 +1,12 @@
 {
-    "tutorial" : {
-        "start" : {
-            "title"       : "Premier déplacement",
-            "description" : "Vous devez vous déplacer en direction de l'hopital désafecté. En cliquant sur les traces de pas sur la carte, votre personnage changera d'endroit.",
-            "objective"   : "Se rendre sur la case \"Hopital\" qui est hors de la base et valider la contrat."
-        },
-        "search" : {
-            "title" : "Fouiller le bâtiment",
-            "description" : "Vous arrivez devant l'hopital, vous voyez plein de chose potentiellement utile. Vous devez fouiller les alentours (onglet proximité) afin de trouver 3 objets.",
-            "objective"   : "Avoir trois objets dans votre sac à dos."
-        },
-        "equip" : {
-            "title" : "Equiper une arme",
-            "description" : "Maintenant que vous avez une arme, vous pouvez l'équiper depuis votre sac à dos.",
-            "objective"   : "Avoir une arme équipé."
-        },
-        "hunting" : {
-            "title" : "Chasser un animal",
-            "description" : "Vous devez reprendre le chemin de la base, sur le chemin vous devez chasser un lapin. Pour cela, trouver un endroit ou l'environnement permet de chasser (onglet proximité bouton environnement).",
-            "objective"   : "Avoir finis une chasse."
-        },
-        "learning" : {
-            "title" : "Apprendre un plan",
-            "description" : "Après votre chasse, vous aurez obtenu assez de composant pour créer un \"Pierre Taillé\". Mais pour cela vous devrez d'abord étudier à l'atelier la recette pour l'objet \"Pierre Taillé\".",
-            "objective"   : "Avoir acquis le plan pour l'objet \"Pierre Taillé\"."
-        },
-        "crafting" : {
-            "title" : "Fabriquer un objet",
-            "description" : "Après votre apprentissage, vous allez devoir fabriquer l'objet \"Pierre Taillé\".",
-            "objective"   : "Avoir l'objet \"Pierre Taillé\" dans votre sac à dos."
-        },
-        "healing" : {
-            "title" : "Se soigner à l'infirmerie",
-            "description" : "Pendant votre combat contre le lapin, vous avez perdu de la vie. Vous devez donc vous rendre à l'infirmerie afin de vous soigner. Deséquiper votre arme avant de rentrer dans la base, elles sont interdite ! Le médecin propose un soin gratuit ou un soin payant.",
-            "objective"   : "Être à votre maximum de point de vie."
-        },
-        "debts" : {
-            "title" : "Endetter",
-            "description" : "Comme vous venez d'arriver, le sous-mercenaire à décider de vous mettre 50$ de dettes. Rendez vous à l'office afin de la rembourser. Parler au mercenaire en chef afin de rembourser cette dette.",
-            "objective"   : "Ne plus avoir de dette."
-        },
-        "bank" : {
-            "title" : "Le banquier",
-            "description" : "Aller voir le banquier, et déposer 100$ sur votre compte. Le banquier vous payera des intérêts chaque fin de semaine.",
-            "objective"   : "Avoir mis 50$ sur votre compte."
-        },
-        "end" : {
-            "title" : "Augmenter votre personnage",
-            "description" : "Pour finaliser votre initiation, augmenter vos caractéristiques. Elle se trouve dans l'onglet personnage.",
-            "objective"   : "Avoir utilisé toute vos points d'amélioration."
+    "notificationContent": {
+      "message": "Vous avez cliqué sur $URL$.",
+      "description": "Tells the user which link they clicked.",
+      "placeholders": {
+        "url": {
+          "content": "$1",
+          "example": "https://developer.mozilla.org"
         }
-    },
-    "search" : {
-        "honey" : {
-            "title"       : "Rechercher du miel",
-            "description" : "Je suis à la recherche d'un pot de miel, tu pense pouvoir m'en apporter ? Je te récompenserais... en fonction de mon humeur.",
-            "objective"   : "Avoir l'objet \"Miel\" et le donner au chef."
-        },
-        "guard_armor" : {
-            "title"       : "Pénurie d'armure",
-            "description" : "La Corporation manque de matériel pour nos équipes. Ramenez en une afin de recevoir votre paiement.",
-            "objective"   : "Avoir l'objet \"Armure de garde\" et le donner au chef."
-        },
-        "baseball" : {
-            "title"       : "Un match de détente",
-            "description" : "Aujourd'hui c'est jour de match, mais bizarrement entre chaque match, elles disparaissent. J'en ai besoin rapidement !",
-            "objective"   : "Avoir l'objet \"Batte\" et le donner au chef."
-        }
-    },
-    "view" : {
-        "claim" : "{0}Le contrat ne peut être valider pour le moment.|{1}Le contrat peut être valider, allez voir le sous mercenaire.",
-        "none"  : "Vous n'avez pas de contrat. Rendez vous à l'office pour trouver un contrat.",
-        "office_none"  : "Il n'y a pas de contrat disponible, revenez plus tard.",
-        "button" : {
-            "validate" : "Valider le contrat"
-        }
-    },
-    "rewards" : {
-        "item" : {
-            "success" : "{1}Vous avez obtenu l'objet :Item en :count exemplaire|{2,*}Vous avez obtenu l'objet :Item en :count exemplaires",
-            "name"    : "Objet"
-        },
-        "money" : {
-            "success" : "Vous avez reçu :count $ pour le contrat.",
-            "name"    : "Argent"
-        },
-        "fame" : {
-            "success" : "{1}Vous avez reçu :count point de réputation pour le contrat.|{2,*}Vous avez reçu :count points de réputation pour le contrat.",
-            "name"    : "Réputation"
-        }
+      }
     }
-}
+  }
