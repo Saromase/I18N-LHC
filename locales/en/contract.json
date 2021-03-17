@@ -1,12 +1,20 @@
 {
     "notificationContent": {
-        "message": "You clicked $URL$.",
-        "description": "Tells the user which link they clicked.",
-        "placeholders": {
-            "url": {
-                "content": "$1",
-                "example": "https://developer.mozilla.org"
-            }
+      "message": "Vous avez cliqué sur $URL$.",
+      "description": "Tells the user which link they clicked.",
+      "placeholders": {
+        "url": {
+          "content": "$1",
+          "example": "https://developer.mozilla.org"
         }
+      }
+    },
+    "tutorial.start.title": {
+      "message": "Premier déplacement.",
+      "description": "Nom du contrat"
+    },
+    "tutorial.start.description": {
+      "message": "Vous devez vous déplacer en direction de l'hopital désafecté. En cliquant sur les traces de pas sur la carte, votre personnage changera d'endroit."
     }
-}
+  }
+  
