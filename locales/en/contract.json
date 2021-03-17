@@ -18,5 +18,14 @@
     },
     "tutorial.start.objective": {
         "message": "Se rendre sur la case \"Hopital\" qui est hors de la base et valider la contrat"
-    }
+    },
+    "tutorial.search.title" : {
+        "message" : ""
+      },
+      "tutorial.search.description" : {
+        "message" : ""
+      },
+      "tutorial.search.objective" : {
+        "message" : ""
+      }
 }
