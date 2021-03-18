@@ -1,25 +1,30 @@
 {
   "notificationContent": {
-      "message": "Vous avez cliqué sur $URL$.",
-      "description": "Tells the user which link they clicked.",
+      "message": "",
+      "description": "A"
   },
   "tutorial.start.title": {
-      "message": "Premier déplacement.",
-      "description": "Nom du premier contrat du joueur"
+      "message": "",
+      "description": "B"
   },
   "tutorial.start.description": {
-      "message": "Vous devez vous déplacer en direction de l'hopital désafecté. En cliquant sur les traces de pas sur la carte, votre personnage changera d'endroit."
+      "message": "",
+      "description": "C"
   },
   "tutorial.start.objective": {
-      "message": "Se rendre sur la case \"Hopital\" qui est hors de la base et valider la contrat"
+      "message": "",
+      "description": "D"
   },
   "tutorial.search.title" : {
-    "message" : "Fouiller le bâtiment"
+    "message" : "",
+    "description": "E"
   },
   "tutorial.search.description" : {
-    "message" : "Vous arrivez devant l'hopital, vous voyez plein de chose potentiellement utile. Vous devez fouiller les alentours (onglet proximité) afin de trouver 3 objets."
+    "message" : "",
+    "description": "F"
   },
   "tutorial.search.objective" : {
-    "message" : "Avoir trois objets dans votre sac à dos."
+    "message" : "",
+    "description": "G"
   }
 }

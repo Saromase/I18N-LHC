@@ -1,25 +1,30 @@
 {
   "notificationContent": {
-      "message": "",
-      "description": "Tells the user which link they clicked."
+      "message": "A",
+      "description": "A"
   },
   "tutorial.start.title": {
-      "message": "",
-      "description": "Nom du premier contrat du joueur"
+      "message": "B",
+      "description": "B"
   },
   "tutorial.start.description": {
-      "message": ""
+      "message": "C",
+      "description": "C"
   },
   "tutorial.start.objective": {
-      "message": ""
+      "message": "D",
+      "description": "D"
   },
   "tutorial.search.title" : {
-    "message" : ""
+    "message" : "E",
+    "description": "E"
   },
   "tutorial.search.description" : {
-    "message" : ""
+    "message" : "F",
+    "description": "F"
   },
   "tutorial.search.objective" : {
-    "message" : "s"
+    "message" : "G",
+    "description": "G"
   }
 }
