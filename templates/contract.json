@@ -26,5 +26,9 @@
   "tutorial.search.objective" : {
     "message" : "G",
     "description": "G"
+  },
+  "tutorial.equip.title" : {
+    "message" : "H",
+    "description": "H"
   }
 }
