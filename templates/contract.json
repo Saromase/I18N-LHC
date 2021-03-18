@@ -1,0 +1,25 @@
+{
+  "notificationContent": {
+      "message": "",
+      "description": "Tells the user which link they clicked."
+  },
+  "tutorial.start.title": {
+      "message": "",
+      "description": "Nom du premier contrat du joueur"
+  },
+  "tutorial.start.description": {
+      "message": ""
+  },
+  "tutorial.start.objective": {
+      "message": ""
+  },
+  "tutorial.search.title" : {
+    "message" : ""
+  },
+  "tutorial.search.description" : {
+    "message" : ""
+  },
+  "tutorial.search.objective" : {
+    "message" : "s"
+  }
+}

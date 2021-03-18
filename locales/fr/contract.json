@@ -2,12 +2,6 @@
   "notificationContent": {
       "message": "Vous avez cliqué sur $URL$.",
       "description": "Tells the user which link they clicked.",
-      "placeholders": {
-          "url": {
-              "content": "$1",
-              "example": "https://developer.mozilla.org"
-          }
-      }
   },
   "tutorial.start.title": {
       "message": "Premier déplacement.",
