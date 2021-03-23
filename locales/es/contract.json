@@ -1,0 +1,30 @@
+{
+  "notificationContent": {
+      "message": "",
+      "description": "A"
+  },
+  "tutorial.start.title": {
+      "message": "",
+      "description": "B"
+  },
+  "tutorial.start.description": {
+      "message": "",
+      "description": "C"
+  },
+  "tutorial.start.objective": {
+      "message": "",
+      "description": "D"
+  },
+  "tutorial.search.title" : {
+    "message" : "",
+    "description": "E"
+  },
+  "tutorial.search.description" : {
+    "message" : "",
+    "description": "F"
+  },
+  "tutorial.search.objective" : {
+    "message" : "",
+    "description": "G"
+  }
+}
